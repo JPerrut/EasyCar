@@ -6,5 +6,10 @@ import location from "../assets/location.png";
 import car from "../assets/car.png";
 
 export default {
-    bg, driver, passenger, logo, location, car
+  bg,
+  driver,
+  passenger,
+  logo,
+  location,
+  car,
 };
