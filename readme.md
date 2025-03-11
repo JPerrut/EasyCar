@@ -49,7 +49,7 @@ Este repositório contém o Frontend Mobile do projeto, desenvolvido com React N
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/easycar-mobile.git
+   git clone https://github.com/JPerrut/easycar-mobile.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
